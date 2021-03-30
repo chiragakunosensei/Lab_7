@@ -31,6 +31,12 @@ We will download raster elevation data from [The National
 Map](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) (<https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map>), the US
 federal data geoportal administered by the US Geological Survey (USGS).
 
+THE INTERFACE IS A LITTLE BIT DIFFERENT NOW SO IF YOU CAN'T FOLLOW IT DONWLOAD FROM HERE
+
+[The National
+Map](https://tuprd-my.sharepoint.com/:f:/g/personal/jmennis_temple_edu/EkDUbTwFk_9LgZV4BIG_Ts4BJabWs9M56GpyU_6LgOZtGw?e=scjT6V) (<https://tuprd-my.sharepoint.com/:f:/g/personal/jmennis_temple_edu/EkDUbTwFk_9LgZV4BIG_Ts4BJabWs9M56GpyU_6LgOZtGw?e=scjT6V>)
+
+
 1.  > Go to The National Map, and click on The National Map Viewer.
     > Then, click on **Data Download** to load the downloadable map
     > viewer.
