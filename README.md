@@ -403,25 +403,6 @@ Be sure to include the following information:
 4.  A choropleth map of the median percent impervious surface by
     municipality.
 
-The **Introduction** section should state the research objective and the
-relevant criteria for identifying the municipalities.
-
-The **Data and Methods** section should state the data sets used in the
-analysis, from where those data were acquired, and the GIS operations
-employed.
-
-The **Results** section should state the results (i.e. the lists of the
-municipalities that meet each of the criteria). The maps should be cited
-in the text here.
-
-The **Discussion** section should state an interpretation of the results
-(i.e. what parts of the county have steeps slopes or high impervious
-surface percentages), limitations of the analysis, and how the analysis
-could be improved or expanded.
-
-The **Tables** **and Figures** section should contain the maps, each on
-a separate page with a caption. The maps should be cited in the text.
-
 ## Getting Started
 
 You can use some of the products you have created in the tutorial for
